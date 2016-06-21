@@ -11,11 +11,15 @@ our @ISA = qw(WordList);
 1;
 # ABSTRACT: Betawi words from several sources
 
-=head1 SOURCES
+=head1 SEE ALSO
+
+Sources:
 
 L<https://id.wikipedia.org/wiki/Bahasa_Betawi>
 
 L<http://kamusmania.com/categories/Kamus-Bahasa-Betawi-12/>
+
+=cut
 
 __DATA__
 abang
